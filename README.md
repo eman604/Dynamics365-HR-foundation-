@@ -11,13 +11,13 @@ Build the full HR foundation for a fictional company using Microsoft Dynamics 36
 
 ## ⚙️ Tools & Platform  
 - Microsoft Dynamics 365 Human Resources  
-- Microsoft Power Platform (if applicable)  
+- 
 
 ## 👥 Team Members  
-- Eman [Full Name]  
-- [Team Member 2]  
-- [Team Member 3]  
-- [Team Member 4]  
+- Eman Magdy Maarouf 
+- Marian 
+- Marian
+- Omnia
 
 ## 📎 Deliverables  
 - **Documentation** → detailed setup steps and final project report.  
