@@ -1,6 +1,6 @@
 # Dynamics 365 HR Project - Digital Egypt Pioneers Initiative
 
-![Company Logo]((https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true))
+![Company Logo](https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true))
 
 ---
 
