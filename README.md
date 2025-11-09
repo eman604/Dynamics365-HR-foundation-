@@ -22,7 +22,7 @@ It is designed for viewing and understanding the organizational hierarchy setup 
 
 ## Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the Documentation/ folder:  
-- [Screenshots Part 1](Documentation/Screenshots_Part1.pdf)  
+- [Screenshots Part 1](https://drive.google.com/file/d/1BXeI8XsRBHFSwcfdinQPnY5Yl4OZdzem/view?usp=drivesdk)
 - [Screenshots Part 2](Documentation/Screenshots_Part2.pdf)  
 
 ---
@@ -30,6 +30,6 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 ## Credits
 - Project developed by: *Eman Magdy Maarouf*  
 - Initiative: *Digital Egypt Pioneers Initiative (DEPI)*  
-- Date started: [Original start date] | Last updated: [Latest update date]
+- Date started: October 2025 | Last updated: November 2025.
 
 ---
