@@ -1,29 +1,35 @@
-# Dynamics 365 HR – Organizational Structure Setup  
+# Dynamics 365 HR Project - Digital Egypt Pioneers Initiative
 
-## 🎯 Objective  
-Build the full HR foundation for a fictional company using Microsoft Dynamics 365.  
+![Company Logo](PUT_YOUR_LOGO_LINK_HERE)
 
-## 📌 Scope  
-- Create legal entities and operating units.  
-- Define departments, jobs, and positions.  
-- Assign reporting relationships.  
-- Produce an organizational chart.  
+---
 
-## ⚙️ Tools & Platform  
-- Microsoft Dynamics 365 Human Resources  
-- 
+## Project Overview
+This project demonstrates a simplified HR structure implementation in Dynamics 365, focusing on legal entities, business units, departments, positions, and jobs.  
+It is designed for viewing and understanding the organizational hierarchy setup in a multinational context.
 
-## 👥 Team Members  
-- Ahmed Muharram
-- Eman Magdy Maarouf
-- Antony Samir 
-- Marian Ashraf Mounir Morcos
-- Basma 
-- Marian Elia Haroun
+---
 
-## 📎 Deliverables  
-- **Documentation** → detailed setup steps and final project report.  
-- **Screenshots** → system configuration (entities, departments, jobs, org chart).  
-- **Presentation** → final project presentation.  
+## Key Achievements
+- *Legal Entities & Business Units:* 3 legal entities created, each with its own business unit.  
+- *Departments & Hierarchy:* 6 departments created and linked through a department hierarchy, illustrating organizational structure across different countries.  
+- *Positions & Jobs:* Positions and Jobs created with one job linked to each position, demonstrating a basic HR setup.  
+- *Position Hierarchy Visualization:* On Dynamics 365, the position hierarchy can be viewed as a tree diagram, reflecting reporting relationships and organizational structure.  
+- *Novexa Entity:* The Novexa data used in this project was provided by another team member.  
+  The company logo and Dynamics 365 setup for this entity were created by the project developer.
 
-## 🗂 Repository Structure  
+---
+
+## Documentation & Screenshots
+Detailed screenshots of the implementation are included in PDF files inside the Documentation/ folder:  
+- [Screenshots Part 1](Documentation/Screenshots_Part1.pdf)  
+- [Screenshots Part 2](Documentation/Screenshots_Part2.pdf)  
+
+---
+
+## Credits
+- Project developed by: *Eman Magdy Maarouf*  
+- Initiative: *Digital Egypt Pioneers Initiative (DEPI)*  
+- Date started: [Original start date] | Last updated: [Latest update date]
+
+---
