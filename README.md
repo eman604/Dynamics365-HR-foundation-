@@ -28,7 +28,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 ---
 
 ## Credits
-- Project developed by: *Eman Magdy Maarouf*  
+- Project developed by: 
 - Initiative: *Digital Egypt Pioneers Initiative (DEPI)*  
 - Date started: October 2025 | Last updated: November 2025.
 
