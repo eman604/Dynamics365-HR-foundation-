@@ -16,8 +16,7 @@ It is designed for viewing and understanding the organizational hierarchy setup 
 - *Departments & Hierarchy:* 6 departments created and linked through a department hierarchy, illustrating organizational structure across different countries.  
 - *Positions & Jobs:* Positions and Jobs created with one job linked to each position, demonstrating a basic HR setup.  
 - *Position Hierarchy Visualization:* On Dynamics 365, the position hierarchy can be viewed as a tree diagram, reflecting reporting relationships and organizational structure.  
-- *Novexa Entity:* The Novexa data used in this project was provided by another team member.  
-  The company logo and Dynamics 365 setup for this entity were created by the project developer.
+
 
 ---
 
